@@ -4,8 +4,6 @@
 
 _Figure: Opening and switching between terminals as well as switching terminal-context._
 
----
-
 Lightweight terminal manager for Neovim.
 
 Create floating terminals and switch between them.
