@@ -2,7 +2,7 @@
 
 ![Cover image](https://github.com/mtkld/ctxterm.nvim/blob/master/front.gif?raw=true)
 
-_Figure: Opening and switching between terminals as well as switching terminal-context_
+_Figure: Opening and switching between terminals as well as switching terminal-context._
 
 ---
 
