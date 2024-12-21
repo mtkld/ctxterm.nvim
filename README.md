@@ -2,6 +2,10 @@
 
 ![Cover image](https://github.com/mtkld/ctxterm.nvim/blob/master/front.gif?raw=true)
 
+_Figure: Opening and switching between terminals as well as switching terminal-context_
+
+---
+
 Lightweight terminal manager for Neovim.
 
 Create floating terminals and switch between them.
