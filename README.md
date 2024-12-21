@@ -1,6 +1,6 @@
 # Context-Aware Terminal Manager for Neovim
 
-![Cover image](https://github.com/mtkld/ctxterm.nvim/blob/master/front.jpg?raw=true)
+![Cover image](https://github.com/mtkld/ctxterm.nvim/blob/master/front.gif?raw=true)
 
 Lightweight terminal manager for Neovim.
 
