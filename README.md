@@ -2,7 +2,7 @@
 
 ![Cover image](https://github.com/mtkld/ctxterm.nvim/blob/master/front.gif?raw=true)
 
-_Figure: Opening and switching between terminals as well as switching terminal-context._
+_Figure: Opening and switching between terminals as well as switching terminal-context. (Matrix effect by [cmatrix](https://github.com/abishekvashok/cmatrix)_
 
 Lightweight terminal manager for Neovim.
 
