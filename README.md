@@ -32,6 +32,8 @@ Avoid specifying `current_context_cb` if you want to use a single context for al
 
 ### Default configuration
 
+Using Lazy plugin manager.
+
 ```lua
 local default_opts = {
 	shell = "bash",
